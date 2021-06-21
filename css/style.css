@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Fraunces:wght@500&display=swap');
+html * {
+    margin: 0;
+    }
+
+body {
+    text-align: center;
+    background-repeat: no-repeat ;
+    background-image: url(https://bit.ly/3gNjAgw);
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #080c72;
+    object-fit: cover;
+    }
+
+/*========================= Cabeçalho ==========================*/
+ #cabecalho {
+     height: 13vh;
+     font-family: 'DM Serif Display', serif;
+     font-size: 30px;
+     background-color: #000000a1;
+     padding-top: 1vh;
+    }
+
+    /*========================= Conteúdo ==========================*/
+ #conteudo {
+    
+     color:white;
+    }
+
+ p {
+     color:black
+     }
+
+ #video {
+        padding-top: 50px;
+    }
+   
+
+     /*========================= Rodapé ==========================*/
+ #rodape {
+     background-color:#000000b2 ;
+     height:10vh;  
+     }
+
+#icones {
+    display:flex;
+    text-align: center;
+    justify-content: center;
+  
+}
+#icones img {
+
+    height: 100px;
+}
